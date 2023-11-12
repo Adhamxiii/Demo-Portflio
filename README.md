@@ -4,12 +4,14 @@ Welcome to my personal demo portfolio website! This project showcases my skills 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Demo Portfolio 🪪](#demo-portfolio-)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Technologies Used](#technologies-used)
+  - [Features](#features)
+  - [Live Demo](#live-demo)
+  - [Contributing](#contributing)
+  - [Contact Information](#contact-information)
 
 ## Introduction
 
@@ -39,7 +41,10 @@ Check out the live demo of the portfolio website [here](https://demo-portflio.ve
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
-## Contact
+## Contact Information
 
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
-- Email: [Message me](mailto:adhamxiii10@gmail.com)
+If you have any questions or need assistance, you can reach out to the project author:
+
+- Email: [Adham Nasser](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adhamxiii/)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
